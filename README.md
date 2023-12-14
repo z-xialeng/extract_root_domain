@@ -1,2 +1,1 @@
-# extract_root_domain
-提取根域名
+该脚本用于提取根域名。
